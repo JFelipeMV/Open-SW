@@ -1,2 +1,2 @@
 # Open-SW
-Reimplementation of sufway surfers in c++ with raylib
+Open-SW is a simple C++ game project that recreates Subway Surfers using Raylib.
